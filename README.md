@@ -22,7 +22,7 @@ Outlook, Exchange Online and Microsoft Teams.
 | **Admin Portal** | admin.microsoft.com |
 | **Email Client** | Microsoft Outlook |
 | **Collaboration** | Microsoft Teams |
-| **Level** | Tier 1 Help Desk |
+| **Level** | Tier 1 & 2 Help Desk |
 
 ---
 
@@ -106,29 +106,8 @@ office-365/
 
 ---
 
-## 🔗 Related Portfolios
 
-| Portfolio | Link |
-|-----------|------|
-| Networking Labs | [View](../01-lan-routing/) |
-| DHCP Configuration | [View](../02-dhcp-configuration/) |
-| DNS Portfolio | [View](../03-dns-portfolio/) |
-| TCP/IP Troubleshooting | [View](../04-tcp-ip-troubleshooting/) |
-| VPN Troubleshooting | [View](../05-vpn-troubleshooting/) |
-| Windows Server and AD | [View](../06-windows-server-azure-ad/) |
 
 ---
 
-## ✅ Lab Status
 
-| Section | Status |
-|---------|--------|
-| 01 Microsoft 365 Admin Center | 🔄 In Progress |
-| 02 Outlook and Exchange Online | ⬜ Planned |
-| 03 Microsoft Teams | ⬜ Planned |
-
----
-
-> **Note:** This portfolio is actively being built.
-> Screenshots and lab documentation are added
-> as each section is completed.
