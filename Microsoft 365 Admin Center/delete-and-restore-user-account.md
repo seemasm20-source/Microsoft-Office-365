@@ -21,7 +21,7 @@ Learn how to delete a user account and restore it using the Microsoft 365 Admin 
 
 **Expected result:** The user account is moved to **Deleted users** and can generally be restored within 30 days.
 
-## Steps — Restore a User
+## Steps - Restore a User
 
 1. Navigate to **Users → Deleted users**.
 2. Select the user account you want to restore.
