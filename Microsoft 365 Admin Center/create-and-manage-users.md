@@ -11,7 +11,7 @@ Create a new user account in the Microsoft 365 Admin Center, assign a product li
 * An account with the required user-management permissions.
 * An available Microsoft 365 licence, if the user requires licensed services.
 
-## Steps — Create a New User
+## Steps - Create a New User
 
 ### Step 1: Sign in to the Admin Center
 
