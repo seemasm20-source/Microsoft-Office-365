@@ -17,7 +17,7 @@ Learn how to assign a Microsoft 365 licence to a user and remove an existing lic
 2. Navigate to **Users → Active users**.
 3. Select the user account.
 4. Open the **Licences and apps** tab.
-5. Select the required licence, for example, **Microsoft 365 Business Standard**.
+5. Select the required licence **OFFICE 365 E5**.
 6. Click **Save changes**.
 
 **Expected result:** The selected licence is assigned to the user, provided a licence is available and the assignment succeeds.
@@ -129,7 +129,7 @@ Learn how to assign a Microsoft 365 licence to a user and remove an existing lic
 
 
 
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/57787250-716d-4b44-a047-8c9ea979e1d2" />
+
 
 
 
