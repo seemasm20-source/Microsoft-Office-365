@@ -56,9 +56,21 @@ Common symptoms include:
 [Click here to view Outlook Sign-in and Profile Troubleshooting](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md)
 
 
+
+
+
 **Expected result:** Outlook works with the new profile if the previous profile was damaged or misconfigured.
 
+
+
+
+
 **Note:** Keep the old profile until the new one has been tested successfully.
+
+
+
+
+
 
 ## Verification Checklist
 
@@ -67,6 +79,37 @@ Common symptoms include:
 - [ ] Emails can be sent and received.
 - [ ] Outlook connects to Exchange or Microsoft 365.
 - [ ] The issue does not return after restarting Outlook.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
