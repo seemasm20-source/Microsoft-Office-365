@@ -1,5 +1,5 @@
 
-# Outlook Troubleshooting — Cannot Send or Receive Emails
+# Outlook Troubleshooting - Cannot Send or Receive Emails
 
 
 Diagnose and resolve common Outlook email delivery issues, including messages stuck in the Outbox and bounced emails.
@@ -9,7 +9,7 @@ Diagnose and resolve common Outlook email delivery issues, including messages st
 ### Troubleshooting Steps
 
 1. **Check the Outbox:** Open Outlook and check whether messages are stuck in the Outbox.
-2. **Check Offline mode:** Open the **Send / Receive** tab and verify that **Work Offline** is disabled.
+2. **Check Offline mode:** Open the **Send / Receive** tab and verify that **Work Offline** is disabled,toggling ON will work.
 3. **Check internet connectivity:** Confirm the user can access websites.
 4. **Check Microsoft 365 service health:** Open [Microsoft 365 Admin Center](https://admin.microsoft.com) → **Health → Service health**.
 5. **Send a test email:** Send a test message to the user's own email address and check whether it arrives.
@@ -35,11 +35,7 @@ Users cannot send or receive emails in Outlook, and the issue may be caused by a
 6. Follow the recommended actions, if any, and monitor the incident for updates.
 7. If Microsoft confirms an outage, inform affected users and follow your organisation's escalation process instead of making unnecessary changes to individual computers.
 
-### What the Status Means
 
-- **Service incident:** A confirmed issue affecting a Microsoft 365 service.
-- **Service advisory:** A condition that may affect service availability or performance.
-- **Healthy:** No reported issue for that service; this does not rule out every possible problem.
 
 ### Expected Result
 
@@ -54,6 +50,21 @@ Determine whether the email issue is related to a reported Microsoft 365 service
 * [ ] Microsoft 365 service health has been checked.
 * [ ] Test email delivery has been verified.
 * [ ] No unexpected messages remain stuck in the Outbox.
-* [ ] The NDR reason has been identified for bounced emails.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/6b8095b4-0f28-4ce1-bc6e-0dd1ea861954" />
+
+
 
 
