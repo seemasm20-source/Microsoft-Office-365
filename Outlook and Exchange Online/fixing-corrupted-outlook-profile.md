@@ -53,6 +53,9 @@ Common symptoms include:
 9. Click **Apply → OK**.
 10. Restart Outlook and test the new profile.
 
+[Click here to view Outlook Sign-in and Profile Troubleshooting](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md)
+
+
 **Expected result:** Outlook works with the new profile if the previous profile was damaged or misconfigured.
 
 **Note:** Keep the old profile until the new one has been tested successfully.
