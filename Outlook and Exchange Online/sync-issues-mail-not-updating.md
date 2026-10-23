@@ -24,7 +24,7 @@ Troubleshoot Outlook synchronisation problems, including emails not updating, fo
 
 **Expected result:** Emails and folders synchronise correctly after the underlying connectivity, service, or application issue is resolved.
 
-## Issue 2 — Calendar Not Syncing
+## Issue 2 - Calendar Not Syncing
 
 ### Troubleshooting Steps
 
