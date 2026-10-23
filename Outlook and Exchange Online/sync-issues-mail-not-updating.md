@@ -48,13 +48,4 @@ Troubleshoot Outlook synchronisation problems, including emails not updating, fo
 - [ ] Microsoft 365 service health has been checked.
 - [ ] The issue remains resolved after restarting Outlook.
 
-## Troubleshooting Notes
 
-- **Outlook on the web works, desktop Outlook does not:** Investigate the local Outlook application, profile, or cache.
-- **Both Outlook and webmail are affected:** Check account status, mailbox availability, and Microsoft 365 service health.
-- **Only the calendar is affected:** Check calendar permissions, shared-calendar behaviour, and whether the affected calendar is shared or delegated.
-- **Sync is still failing:** Check Outlook's sync errors and consider further profile or cache troubleshooting before rebuilding local data.
-
-## Key Learning
-
-Start with a manual sync, check connection status, and compare desktop Outlook with Outlook on the web. This helps identify whether the issue is local to the application or related to the mailbox or service.
