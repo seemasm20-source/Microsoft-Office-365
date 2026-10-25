@@ -43,11 +43,7 @@ Troubleshoot microphone, camera, and audio/video problems in Microsoft Teams mee
 - [ ] User can hear and be heard in a test meeting.
 - [ ] The issue is resolved or documented for escalation.
 
-## Troubleshooting Notes
 
-- If multiple users experience the same issue, check Teams service health and meeting policies.
-- If only one user is affected, check device selection, permissions, hardware connections, and drivers.
-- Record the affected device, error message, troubleshooting steps, and outcome in the support ticket.
 
 
 
