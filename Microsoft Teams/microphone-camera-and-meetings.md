@@ -1,21 +1,20 @@
 
 # Microsoft Teams Microphone, Camera and Meeting Troubleshooting
 
-**Support Level:** Tier 1  
-**Service:** Microsoft Teams / Windows
+
 
 ## Objective
 
-Troubleshoot microphone, camera, and audio/video problems in Microsoft Teams meetings.
+  Troubleshoot microphone, camera, and audio/video problems in Microsoft Teams meetings.
 
 ## 1. Diagnose Audio and Video Issues
 
-1. **Check Teams device settings:** Open Teams → **Settings and more (…) → Settings → Devices**. Confirm the correct microphone, speaker, and camera are selected. Menu names may vary by Teams version.
+1. **Check Teams device settings:** Open Teams → **Settings and more (…) → Settings → Devices**. Confirm the correct microphone, speaker, and camera are selected. Menu names may       vary by Teams version.
 2. **Make a test call:** If available, go to **Settings → Devices → Make a test call**. Check whether the microphone, speakers, and camera work.
 3. **Check microphone permissions:** In Windows 11, open **Settings → Privacy & security → Microphone**. Enable microphone access and allow desktop apps to access the microphone.
 4. **Check camera permissions:** Open **Settings → Privacy & security → Camera**. Enable camera access and allow desktop apps to access the camera.
 5. **Check the physical device:** Confirm the headset or camera is connected, not muted by a hardware switch, and not being exclusively used by another application.
-6. **Check Device Manager:** Right-click Start → **Device Manager**. Expand **Audio inputs and outputs**, **Sound, video and game controllers**, and **Cameras**. Look for warning icons or disabled devices.
+6. **Check Device Manager:** Right-click Start → **Device Manager**. Expand **Audio inputs and outputs**, **Sound, video and game controllers**, and **Cameras**. Look for warning     icons or disabled devices.
 
 ## 2. Fix — Microphone or Camera Not Working Only in Meetings
 
