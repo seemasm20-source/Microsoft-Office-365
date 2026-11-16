@@ -197,14 +197,7 @@ office-365/
 | "People can't hear me in Teams" | The wrong device or a privacy permission | Selected the right microphone, checked the Windows permission |
 | "Teams is slow" | A damaged cache | Cleared the cache, then Repair and Reset if needed |
 
----
 
-## 🔗 Related Portfolios
-
-| Portfolio | Link |
-|-----------|------|
-| **Windows Server on Azure** | [Windows Server on Azure](https://github.com/seemasm20-source/Windows-Server-Azure-AD) |
-| **Networking Labs** | [Networking Labs](https://github.com/seemasm20-source/networking-labs) |
 
 ---
 
