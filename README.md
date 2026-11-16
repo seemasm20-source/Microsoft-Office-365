@@ -75,8 +75,8 @@ office-365/
 |-------|----------------|------|
 | **Create a New User** | Create a user, set a temporary password and assign a licence | [Create and Manage Users](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/create-and-manage-users.md) |
 | **Assign and Remove Licences** | Give or take away a Microsoft 365 licence | [Assign and Remove License](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/assign-and-remove-license.md) |
-| **Reset Password and Block Sign-In** | Reset a password and block or unblock sign-in | [Reset Password and Block Sign-In](./01-m365-admin/reset-passwords-block-signin.md) |
-| **Delete and Restore a User** | Delete an account and restore it within 30 days | [Delete and Restore a User](./01-m365-admin/delete-restore-user.md) |
+| **Reset Password and Block Sign-In** | Reset a password and block or unblock sign-in | [Reset Passwords and Block Sign-In](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/reset-passwords-and-block-sign-in.md) |
+| **Delete and Restore a User** | Delete an account and restore it within 30 days | [Delete and Restore User Account](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/delete-and-restore-user-account.md) |
 
 ---
 
