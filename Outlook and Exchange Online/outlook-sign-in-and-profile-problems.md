@@ -36,20 +36,39 @@ Troubleshoot common Microsoft Outlook problems, sign-in failures, Outlook using 
 ### Steps
 
 1. **Verify the credentials.** Confirm the user enters the correct **work or school account** and password, not a personal Microsoft account.
-2. **Check the sign-in status.** Open the [Microsoft 365 Admin Center](https://admin.microsoft.com) → **Users → Active users** → select the user. Check that sign-in is **not blocked**, and that the account is not locked and the password has not expired.
+2. **Check the sign-in status.** Open the [Microsoft 365 Admin Center](https://admin.microsoft.com) → **Users → Active users** → select the user. Check that sign-     in is **not blocked**, and that the account is not locked and the password has not expired.
 3. **Check the licence.** Open the **Licenses and apps** tab and confirm that a licence that includes Exchange Online is assigned.
-4. **Clear the saved credentials, if needed:**
-   1. Close Outlook and the other Office applications.
-   2. Open **Control Panel → Credential Manager → Windows Credentials**.
-   3. Find the Microsoft Office or Outlook entries for the **affected account** and remove only those.
-5. Open Outlook and sign in again.
 
-**Screenshots: account and licence checks:**
+
+ **Screenshots: account and licence checks:**
+
 
 <img width="1920" height="1080" alt="Active users list with the user selected" src="https://github.com/user-attachments/assets/c36a9afb-2b77-4f4f-b5cb-9d3ebff12af5" />
 
+
 <img width="1920" height="1080" alt="The user's Licenses and apps tab" src="https://github.com/user-attachments/assets/930b278e-4429-403f-9b62-8016266d42ef" />
 
+
+2. **Clear the saved credentials, if needed:**
+   1. Close Outlook and the other Office applications.
+   2. Open **Control Panel → Credential Manager → Windows Credentials**.
+   3. Find the Microsoft Office or Outlook entries for the **affected account** and remove only those.
+   4. Open Outlook and sign in again.
+
+
+ **Screenshots: Credentials manager:**
+
+
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/2a8ac170-5c44-4cf8-aa28-48fb9248ab87" />
+
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/31018a05-c8f4-4dc3-8405-002ce58101b4" />
+
+
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/9954a83e-6363-48ea-aad9-01172ed091e9" />
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/2ed3f24d-04ca-4753-88ef-62f4fae98a17" />
 
 **Expected result:** Outlook signs in successfully, if the cause was a wrong password, a blocked account, a missing licence or stale saved credentials.
 
