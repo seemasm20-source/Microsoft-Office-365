@@ -84,10 +84,10 @@ office-365/
 
 | Topic | What it covers | File |
 |-------|----------------|------|
-| **Sign-In and Profile Problems** | Sign-in failures, the wrong account, saved credentials, profile errors | [Outlook Sign-In and Profile Troubleshooting](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md) |
-| **Cannot Send or Receive Emails** | Stuck Outbox, offline mode, service health, bounced emails | [Cannot Send or Receive Emails](./02-outlook-exchange/cannot-send-receive.md) |
-| **Sync Issues and Mail Not Updating** | Manual sync, connection status, calendar sync, Cached Exchange Mode | [Sync Issues](./02-outlook-exchange/sync-issues.md) |
-| **Corrupted Outlook Profile** | Safe mode, add-ins, OST and PST repair, a new profile | [Corrupted Outlook Profile](./02-outlook-exchange/corrupted-profile.md) |
+| **Sign-In and Profile Problems** | Sign-in failures, the wrong account, saved credentials, profile errors | [Outlook Sign-In and Profile Problems](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md) |
+| **Cannot Send or Receive Emails** | Stuck Outbox, offline mode, service health, bounced emails | [Cannot Send and Receive Emails](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/cannot-send-and-receive-emails.md) |
+| **Sync Issues and Mail Not Updating** | Manual sync, connection status, calendar sync, Cached Exchange Mode | [Sync Issues – Mail Not Updating](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/sync-issues-mail-not-updating.md) |
+| **Corrupted Outlook Profile** | Safe mode, add-ins, OST and PST repair, a new profile | [Fixing Corrupted Outlook Profile](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/fixing-corrupted-outlook-profile.md) |
 
 ---
 
