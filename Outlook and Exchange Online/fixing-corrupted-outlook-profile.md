@@ -53,36 +53,25 @@ An Outlook profile stores the email account settings and points to the **data fi
 
 <img width="1920" height="1080" alt="COM Add-ins window with the add-ins unticked" src="https://github.com/user-attachments/assets/50b1cfcb-f0f0-498c-a131-18533ce0579a" />
 
+
+<img width="1920" height="1080" alt="Control Panel Mail window with Show Profiles" src="https://github.com/user-attachments/assets/13add100-968a-43c1-98a3-94d2e7b8aab4" />
+
+<img width="1920" height="1080" alt="Mail Profiles window with the Add button" src="https://github.com/user-attachments/assets/22683fdf-fcd6-40da-8fe3-00649b2e7e56" />
+
+<img width="1920" height="1080" alt="New profile name and email account setup" src="https://github.com/user-attachments/assets/331a491c-d304-4d25-9540-a8f3ec40ac4b" />
+
+<img width="1920" height="1080" alt="Always use this profile with the new profile selected" src="https://github.com/user-attachments/assets/0dc27c56-f0d6-4291-aff3-943c5394ab39" />
 **Expected result:** Outlook opens normally after the faulty add-in is turned off.
 
 > Safe Mode and COM Add-ins apply to **classic Outlook for Windows**, not necessarily to the new Outlook app.
 
 ---
 
-## 🔧 Fix 2 - Repair or Rebuild the Data File
 
-Use this if Outlook still fails, or opens with errors about the data file.
-
-**For an Exchange or Microsoft 365 account (OST file):** The OST is only a cache, so it can be rebuilt without losing mail.
-
-1. Close Outlook completely.
-2. Press **Windows + R**, enter `%localappdata%\Microsoft\Outlook` and press **Enter**.
-3. Find the `.ost` file for the account and **rename** it, for example to `old-mailbox.ost.old`.
-4. Open Outlook. It creates a new OST and downloads the mailbox again. This can take a while for a large mailbox.
-
-**For a PST file (a local archive):** Use the Inbox Repair Tool.
-
-1. Close Outlook.
-2. Start **SCANPST.EXE**. It is in the Office installation folder, for example `C:\Program Files\Microsoft Office\root\Office16`. The path depends on the Office version.
-3. Browse to the PST file, and click **Start**.
-4. Make a backup copy of the file, then click **Repair**.
-5. Open Outlook and check the data.
-
-> **Caution:** Do not delete a PST file. Unlike an OST, a PST can hold the only copy of the mail. Always make a backup copy before a repair.
 
 ---
 
-## 🔧 Fix 3 - Create a New Outlook Profile
+## 🔧 Fix 2 - Create a New Outlook Profile
 
 1. Close Outlook.
 2. Open **Control Panel** and search for **Mail (Microsoft Outlook)**.
@@ -96,13 +85,20 @@ Use this if Outlook still fails, or opens with errors about the data file.
 
 **Screenshots: creating the profile:**
 
-<img width="1920" height="1080" alt="Control Panel Mail window with Show Profiles" src="https://github.com/user-attachments/assets/13add100-968a-43c1-98a3-94d2e7b8aab4" />
+<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/88bb8ab1-e792-4aa9-a511-b6dcbe6ac149" />
 
-<img width="1920" height="1080" alt="Mail Profiles window with the Add button" src="https://github.com/user-attachments/assets/22683fdf-fcd6-40da-8fe3-00649b2e7e56" />
 
-<img width="1920" height="1080" alt="New profile name and email account setup" src="https://github.com/user-attachments/assets/331a491c-d304-4d25-9540-a8f3ec40ac4b" />
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/794db4ac-be20-4af0-a421-35fb74949f9e" />
 
-<img width="1920" height="1080" alt="Always use this profile with the new profile selected" src="https://github.com/user-attachments/assets/0dc27c56-f0d6-4291-aff3-943c5394ab39" />
+
+<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/112f78aa-6ec9-4bb9-b398-04a16f73b316" />
+
+
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/c276ddbe-25dc-43ff-bfaf-14a5dbf75098" />
+
+
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/ac2285b7-cba3-423c-b864-0e9e97a393a4" />
+
 
 **Expected result:** Outlook works with the new profile, if the old profile was damaged or set up wrongly.
 
@@ -121,9 +117,13 @@ Use this if Outlook still fails, or opens with errors about the data file.
 - [ ] Outlook connects to Exchange Online (the status bar shows **Connected**)
 - [ ] The problem does not return after restarting Outlook
 
+
+
 **Screenshot: Outlook working with the new profile:**
 
 <img width="1920" height="1080" alt="Outlook open with the mailbox loaded and connected" src="https://github.com/user-attachments/assets/d0de2a56-eb0d-4d11-a730-8bed07148ea2" />
+
+
 
 ---
 
@@ -138,14 +138,8 @@ Use this if Outlook still fails, or opens with errors about the data file.
 | **Mail does not load, but webmail works** | A damaged OST or profile | Fix 2, then Fix 3 |
 | **Sign-in prompts keep returning** | An authentication problem | See [Outlook Sign-in and Profile Troubleshooting](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md) |
 
----
 
-## 🔗 Related Topics
 
-| Topic | File |
-|-------|------|
-| **Outlook sign-in and profile problems** | [Outlook Sign-in and Profile Troubleshooting](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md) |
-| **Cannot send or receive email** | [Outlook Troubleshooting - Cannot Send or Receive Emails](./outlook-cannot-send-receive.md) |
 
 ---
 
