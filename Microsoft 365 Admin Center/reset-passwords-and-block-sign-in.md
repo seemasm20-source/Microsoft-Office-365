@@ -3,8 +3,7 @@
 
 # ☁️ Microsoft 365 - Reset Password and Block Sign-In
 
-[ Back to Overview] → [README.md](./README.md)
-
+[ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
 ---
 
 ## 📋 Summary
