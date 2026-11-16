@@ -97,7 +97,7 @@ office-365/
 |-------|----------------|------|
 | **Sign-In and Licence Checks** | Sign-in failures, licence checks, missing teams and channels | [Teams Sign-In Problems and License Checks](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/sign-in-problems-and-license-checks.md)) |
 | **Microphone, Camera and Meetings** | Device settings, Windows permissions, meeting restrictions | [Microphone, Camera and Meetings](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/microphone-camera-and-meetings.md) |
-| **Repair, Reset and Reinstall** | Fixing the Teams app, from the least to the most disruptive fix | [Repair, Reset and Reinstall](./03-teams/repair-reset-teams.md) |
+| **Repair, Reset and Reinstall** | Fixing the Teams app, from the least to the most disruptive fix | [Run Repair and Reset Teams](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/run-repair-reset-teams.md) |
 | **Clear the Teams Cache** | Fixing slow or frozen Teams by clearing the cache | [Clear Teams Cache](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/clear-teams-cache.md) |
 
 ---
