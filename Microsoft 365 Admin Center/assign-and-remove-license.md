@@ -1,6 +1,6 @@
 # ☁️ Microsoft 365 - Assign and Remove Licences
 
-[ Back to Overview] → [README.md](./README.md)
+[ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
 
 ---
 
