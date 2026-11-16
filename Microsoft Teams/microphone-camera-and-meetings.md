@@ -1,10 +1,8 @@
 
 
-
-
 # ☁️ Microsoft Teams - Microphone, Camera and Meeting Troubleshooting
 
-[ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
+ [ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
 
 ---
 
