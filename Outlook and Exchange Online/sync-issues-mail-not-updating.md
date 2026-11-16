@@ -1,6 +1,6 @@
 # ☁️ Outlook Troubleshooting - Sync Issues and Mail Not Updating
 
-[ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
+ [Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
 
 ---
 
