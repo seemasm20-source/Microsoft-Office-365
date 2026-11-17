@@ -134,7 +134,7 @@ Classic Teams stored its cache in `%appdata%\Microsoft\Teams`, and clearing that
 
 ## 💡 Next Step
 
-→ [Teams Meeting and Audio Troubleshooting](./teams-audio-troubleshooting.md)
+→ [Run Repair and Reset Teams](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/run-repair-reset-teams.md)
 
 
 
