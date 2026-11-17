@@ -116,7 +116,7 @@ A licence gives a user access to Microsoft 365 services, such as an Exchange mai
 
 ## 💡 Next Step
 
-→ [Assign and Remove License](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/assign-and-remove-license.md)
+→ [Reset Passwords and Block Sign-In](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/reset-passwords-and-block-sign-in.md)
 
 
 
