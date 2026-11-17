@@ -116,7 +116,7 @@ A licence gives a user access to Microsoft 365 services, such as an Exchange mai
 
 ## 💡 Next Step
 
-→ [Reset a User Password in Microsoft 365](./reset-password-m365.md)
+→ [Assign and Remove License](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/assign-and-remove-license.md)
 
 
 
