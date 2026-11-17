@@ -149,7 +149,6 @@ If many users cannot send or receive mail, the cause may be a Microsoft outage a
 
 
 
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/6b8095b4-0f28-4ce1-bc6e-0dd1ea861954" />
 
 
 
