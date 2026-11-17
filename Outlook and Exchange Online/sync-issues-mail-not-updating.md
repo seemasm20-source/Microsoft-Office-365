@@ -103,7 +103,7 @@ For a Microsoft 365 mailbox, Outlook keeps a local copy of the mailbox, called t
 
 ## 💡 Next Step
 
-→ [Outlook Troubleshooting - Cannot Send or Receive Emails](./outlook-cannot-send-receive.md)
+→ [Fixing Corrupted Outlook Profile](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/fixing-corrupted-outlook-profile.md)
 
 
 
