@@ -119,7 +119,7 @@ In the Admin Center, go to **Health → Service health** and look for Microsoft 
 
 ## 💡 Next Step
 
-→ [Teams Microphone, Camera and Meeting Troubleshooting](./teams-audio-camera.md)
+→ [Microphone, Camera and Meetings](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/microphone-camera-and-meetings.md)
 
 
 
