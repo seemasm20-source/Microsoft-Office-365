@@ -168,7 +168,7 @@ If Outlook shows a profile error at startup, create a new profile. The steps are
 
 ## 💡 Next Step
 
-→ [Outlook Troubleshooting - Cannot Send or Receive Emails](./outlook-cannot-send-receive.md)
+→ [Cannot Send and Receive Emails](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/cannot-send-and-receive-emails.md)
 
 
 
