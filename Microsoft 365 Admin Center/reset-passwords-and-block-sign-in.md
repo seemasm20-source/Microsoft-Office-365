@@ -129,7 +129,6 @@ Reset a user's password and block a user from signing in, using the Microsoft 36
 
 ## 💡 Next Step
 
-→ [Delete and Restore a User Account](./delete-restore-user-m365.md)
-
+→ [Delete and Restore User Account](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/delete-and-restore-user-account.md)
 
 
