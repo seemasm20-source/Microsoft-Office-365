@@ -113,7 +113,7 @@ If many users cannot send or receive mail, the cause may be a Microsoft outage a
 
 ## 💡 Next Step
 
-→ [Outlook Profile and Mailbox Troubleshooting](./outlook-profile-mailbox.md)
+→ [Sync Issues – Mail Not Updating](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/sync-issues-mail-not-updating.md)
 
 
 
