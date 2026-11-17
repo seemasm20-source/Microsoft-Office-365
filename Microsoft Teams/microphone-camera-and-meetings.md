@@ -127,7 +127,7 @@ Open **Settings → System → Sound**. Check that the correct **output** and **
 
 ## 💡 Next Step
 
-→ [Microphone, Camera and Meetings](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/microphone-camera-and-meetings.md)
+→ [Clear Teams Cache](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20Teams/clear-teams-cache.md)
 
 
 
